@@ -7,6 +7,7 @@ A chat app made with Node.js and Socket.IO where the user can enter a chat room,
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
+- [Implementaion Video Link](#implementation)
 
 ## Installation
 To get started with the chat application, follow these steps:
@@ -24,7 +25,7 @@ To get started with the chat application, follow these steps:
 
 3. Start the server:
     ```sh
-    node index.js
+    node server.js
     ```
 
 ## Usage
@@ -35,3 +36,5 @@ Once the server is up and running, open your browser and navigate to `http://loc
 - Real-time messaging with Socket.IO.
 - User-friendly interface.
 
+## Implementation
+Video Link: [here](https://drive.google.com/file/d/1oZ8256iQfZtvs6x8lGgL1w1379dt8LF2/view?usp=sharing)
