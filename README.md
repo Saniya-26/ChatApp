@@ -37,4 +37,4 @@ Once the server is up and running, open your browser and navigate to `http://loc
 - User-friendly interface.
 
 ## Implementation
-Video Link: [here](https://drive.google.com/file/d/1oZ8256iQfZtvs6x8lGgL1w1379dt8LF2/view?usp=sharing)
+Video Link: [here](https://drive.google.com/file/d/1oZ8256iQfZtvs6x8lGgL1w1379dt8LF2/view?usp=drive_link)
